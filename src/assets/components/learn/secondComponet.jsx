@@ -1,13 +1,8 @@
-const ThirdComponet = () =>{
+const SecondComponent = () =>{
     return (
         <div>Third Componet</div>
     )
 }
 
 
-const SecondComponet = () =>{
-    return (
-        <div>SecondComponet</div>
-    )
-}
-export {SecondComponet, ThirdComponet};
+ export default SecondComponent
