@@ -8,6 +8,9 @@ const MyComponent = () => {
     <div>{s1} quá</div>
     <div> huy sos </div>
     <div className="child"></div>
+    const s2 = {
+       
+    }
     </>
   );
 
